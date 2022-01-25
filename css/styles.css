@@ -173,7 +173,7 @@ hr {
   height: 150px;
   width: 150px;
   margin: 0 auto 0 auto;
-  padding: 20px 0 40px;
+  padding-top: 20px;
   float: left;
   margin-right: 30px;
 }
